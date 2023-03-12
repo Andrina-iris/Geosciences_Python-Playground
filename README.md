@@ -1,2 +1,3 @@
 # Geosciences_Python-Playground
-Computing and Data Analysis in Geosciences
+SIO113: Computing and Data Analysis in Geosciences
+My repo / backup for finishing the Programming Assignments on my own
